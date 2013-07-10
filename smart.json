@@ -1,0 +1,10 @@
+{
+  "name"       : "rickshaw",
+  "description": "Rickshaw is a JavaScript toolkit for creating interactive time series graphs.",
+  "homepage"   : "https://github.com/bitIO/meteor-rickshaw",
+  "author"     : "Francisco Calle Moreno <francisco.calle.moreno@gmail.com>",
+  "version"    : "0.0.1",
+  "git"        : "https://github.com/bitIO/meteor-rickshaw.git",
+  "packages"   : {
+  }
+}
