@@ -23,3 +23,7 @@ Submodule path 'rack': checked out '08d709f78b8c5b0fbeb7821e37fa53e69afcf433'
 ## Usage Example
 
     mrt add rickshaw
+
+## Dependencies
+
+    d3js-package

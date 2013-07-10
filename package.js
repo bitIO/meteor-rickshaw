@@ -3,10 +3,8 @@ Package.describe({
 });
 
 Package.on_use(function (api) {
-  console.log('-----> adding d3 dependency');
   api.use('d3', 'client');
-  console.log('-----> d3 added');
 
-  api.add_files('lib/rickshaw/rickshaw.css', 'client');
-  api.add_files('lib/rickshaw/rickshaw.js', 'client');
+  api.add_files('lib/rickshaw/rickshaw.min.css', 'client');
+  api.add_files('lib/rickshaw/rickshaw.min.js', 'client');
 });
