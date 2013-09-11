@@ -3,7 +3,7 @@
   "description": "Rickshaw is a JavaScript toolkit for creating interactive time series graphs.",
   "homepage"   : "https://github.com/bitIO/meteor-rickshaw",
   "author"     : "Francisco Calle Moreno <francisco.calle.moreno@gmail.com>",
-  "version"    : "0.0.1",
+  "version"    : "0.0.2",
   "git"        : "https://github.com/bitIO/meteor-rickshaw.git",
   "packages"   : {
     "d3js-package": "0.5.1"
